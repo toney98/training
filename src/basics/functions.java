@@ -7,7 +7,7 @@ static void addNumb(int num1,int num2)
 	{
 	int c;
 	c=num1+num2;
-	System.out.println(+c);
+	System.out.println("sum is "+c);
 	}
 static int multiply(int value1,int value2)
 {
